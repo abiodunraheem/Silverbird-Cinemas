@@ -24,7 +24,7 @@ A Video demo for the project can be viewed [here](https://drive.google.com/file/
 ### Setup
 
 - Open your command prompt or terminal and run.
-- [Clone the GitHub Repository](https://github.com/Abiodunraheem/Silverbird-Cinema.git)
+- [Clone the GitHub Repository](https://github.com/Abiodunraheem/Silverbird-Cinemas.git)
 - run this commands in your terminal:
      - `npm install`
      - `npm run build`
@@ -58,13 +58,13 @@ A Video demo for the project can be viewed [here](https://drive.google.com/file/
 
 - GitHub: [@Abiodunraheem](https://github.com/Abiodunraheem)
 - Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem-908b33154)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olivier-gasominali-866962108/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiodunraheem/Silverbird-Cinema/issues).
+Feel free to check the [issues page](https://github.com/abiodunraheem/Silverbird-Cinemas/issues).
 
 ## Show your support
 
