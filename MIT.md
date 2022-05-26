@@ -1,4 +1,4 @@
-## Copyright 2021, [Nemwel and Zelalem]
+## Copyright 2021, [Abiodun and Olivier]
 
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
 
