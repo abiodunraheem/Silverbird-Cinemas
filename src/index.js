@@ -181,7 +181,12 @@ const testMovie = async (baseMovieURL) => {
         movieWrapper.appendChild(movie);
       });
   }
-  
+  const movieCounter = document.getElementById('movieCount');
+  movieCounter.innerHTML = countAllMovies(movieCount);
+};
+
+document.addEventListener('DOMContentLoaded', () => {
+  testMovie(baseMovieURL);
 });
 
 export default involvementLikes;
