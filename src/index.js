@@ -19,7 +19,7 @@ const commentWraper = document.querySelector('.comment-main-container');
 const movieCount = [];
 
 const testMovie = async (baseMovieURL) => {
-  for (let i = 20; i < 32; i += 1) {
+  for (let i = 12; i < 24; i += 1) {
     movieCount.push(i);
     fetch(baseMovieURL + i)
       .then((response) => response.json())
