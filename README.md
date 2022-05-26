@@ -14,8 +14,8 @@ Silverbird Cinema is a web application that generates random movies from the tv 
 
 ## Live Demo
 Live site URL to Webpack basic setup
-[Live Demo Link](https://mystifying-haibt-69e737.netlify.app/)
-A Video demo for the project can be viewed [here](https://drive.google.com/file/d/1ECyKPCocCK91e6i0JuKVxaWbsmQsgL88/view?usp=sharing)                    
+[Live Demo Link]()
+A Video demo for the project can be viewed [here]()                    
 
 ### Prerequisites
 
@@ -34,13 +34,7 @@ A Video demo for the project can be viewed [here](https://drive.google.com/file/
 
 - To run tests run : npm run test
 - npx hint .
-- npx stylelint "**/*.{css,scss}"                                
-                                                                                                                               
-                                                                                                                                    
-### Install
-
-- Open your command prompt or terminal and run.
-- git@github.com:Nemwel-Boniface/let-sChill.git .
+- npx stylelint "**/*.{css,scss}"    
 
 ### Deployment
 
@@ -56,9 +50,9 @@ A Video demo for the project can be viewed [here](https://drive.google.com/file/
 
 👤 **Authour 2**
 
-- GitHub: [@Abiodunraheem](https://github.com/Abiodunraheem)
-- Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olivier-gasominali-866962108/)
+- [GitHub](https://github.com/GOlivierNation)
+- [Twitter](https://twitter.com/Golivier_Nation)
+- [LinkedIn](https://www.linkedin.com/in/olivier-gasominali-866962108/)
 
 ## 🤝 Contributing
 
