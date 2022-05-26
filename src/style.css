@@ -11,7 +11,7 @@
 
 body {
   position: relative;
-  background-color: #4e4e4e;
+  background-color: rgba(11, 24, 32, 0.904);
 }
 
 .desktopoff,
@@ -143,7 +143,7 @@ footer a:hover {
   border-radius: 9px;
   padding: 12px;
   transition: transform 0.5s;
-  background-color: rgb(93, 25, 25);
+  background-color: darkslategrey;
   color: white;
 }
 
