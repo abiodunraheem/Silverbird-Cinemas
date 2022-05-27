@@ -1,1 +1,0 @@
-exports.countAllMovies = (movieCount) => movieCount.length;
