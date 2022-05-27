@@ -14,8 +14,8 @@ Silverbird Cinema is a web application that generates random movies from the tv 
 
 ## Live Demo
 Live site URL to Webpack basic setup
-[Live Demo Link]()
-A Video demo for the project can be viewed [here]()                    
+[Live Demo Link](https://abiodunraheem.github.io/Silverbird-Cinemas/)
+A Video demo for the project can be viewed [here](https://drive.google.com/file/d/1EaGz5AwoPCsTAUkvhmhY3CDcD8Y0YFtH/view?usp=sharing)                    
 
 ### Prerequisites
 
